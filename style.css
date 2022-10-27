@@ -193,6 +193,23 @@ img{
 }
 
 
+
+}
+
+
+@media (max-width:260px) {
+
+    html{
+        font-size: 14px;
+    }
+
+    img{
+         max-width: 100%;
+    }
+    .text-icon{
+        flex-direction: column;
+    }
+    
 }
 
 
